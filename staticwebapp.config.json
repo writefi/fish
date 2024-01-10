@@ -1,6 +1,10 @@
 {
   "trailingSlash": "auto",
   "routes": [
+{
+  "route": "/a.html",
+  "rewrite": "/a.html"
+ }
     {
       "route":"/a.html",
       "allowedRoles": ["authenticated"]
